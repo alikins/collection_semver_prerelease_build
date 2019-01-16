@@ -1,4 +1,5 @@
-name: "alikins.collection_semver_prerelease_build"
+namespace: "alikins"
+name: "collection_semver_prerelease_build"
 version: "1.0.0-alpha+build.11"
 description: "a collection with one level of requirements (third level)"
 authors: ["Adrian Likins"]
