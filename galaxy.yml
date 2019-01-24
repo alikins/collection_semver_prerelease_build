@@ -1,6 +1,6 @@
 namespace: "alikins"
 name: "collection_semver_prerelease_build"
-version: "1.0.3-alpha+build.11"
+version: "1.0.4-alpha+build.11"
 description: "a collection with one level of requirements (third level)"
 authors: ["Adrian Likins"]
 license: "GPL-3.0-or-later"
